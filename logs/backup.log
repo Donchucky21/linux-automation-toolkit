@@ -1,0 +1,13 @@
+tar: tar (child): Removing leading `/' from member namesbackups/project_backup_2026-04-09_20-09-01.tar.gz: Cannot open
+: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: backups/project_backup_2026-04-09_20-09-01.tar.gz: Cannot write: Broken pipe
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+find: ‘backups/’: No such file or directory
+tar: Removing leading `/' from member names
+tar (child): backups/project_backup_2026-04-09_21-09-01.tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+find: ‘backups/’: No such file or directory
