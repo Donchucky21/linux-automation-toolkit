@@ -11,3 +11,40 @@ tar (child): Error is not recoverable: exiting now
 tar: Child returned status 2
 tar: Error is not recoverable: exiting now
 find: ‘backups/’: No such file or directory
+tar (child): backups/project_backup_2026-04-11_17-09-01.tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Removing leading `/' from member names
+tar: backups/project_backup_2026-04-11_17-09-01.tar.gz: Cannot write: Broken pipe
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+find: ‘backups/’: No such file or directory
+tar: Removing leading `/' from member names
+tar (child): backups/project_backup_2026-04-11_18-09-01.tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+find: ‘backups/’: No such file or directory
+tar: Removing leading `/' from member names
+tar (child): backups/project_backup_2026-04-11_19-09-01.tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+find: ‘backups/’: No such file or directory
+tar: Removing leading `/' from member names
+tar (child): backups/project_backup_2026-04-11_20-09-01.tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+find: ‘backups/’: No such file or directory
+tar: Removing leading `/' from member names
+tar (child): backups/project_backup_2026-04-12_18-09-02.tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+find: ‘backups/’: No such file or directory
+tar: Removing leading `/' from member names
+tar (child): backups/project_backup_2026-04-12_19-09-01.tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+find: ‘backups/’: No such file or directory
